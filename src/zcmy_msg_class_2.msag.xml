@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZCMY_MSG_CLASS_2</ARBGB>
+    <MASTERLANG>T</MASTERLANG>
+    <STEXT>Message Class 2</STEXT>
+   </T100A>
+   <I18N_LANGS>
+    <LANGU>T</LANGU>
+   </I18N_LANGS>
+   <T100T>
+    <T100T>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_2</ARBGB>
+     <STEXT>Message Class 2</STEXT>
+    </T100T>
+   </T100T>
+   <T100_TEXTS>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>000</MSGNR>
+     <TEXT>Merhabalar. Bu bir test mesajıdır.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>Islem basariyla gerceklestirildi.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>Islem basarısızlıkla sonuclandı.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>003</MSGNR>
+     <TEXT>Lutfen gecerli bir islem sembolü giriniz.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>004</MSGNR>
+     <TEXT>Sifira bölme islemi gerceklestirilemez.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>005</MSGNR>
+     <TEXT>Satir basariyla güncellendi.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>006</MSGNR>
+     <TEXT>Güncelleme islemi basarisizlikla sonuclandı.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>007</MSGNR>
+     <TEXT>Yeni kayit olusturuldu.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>008</MSGNR>
+     <TEXT>Yeni kayit olusturma islemi basarisizlikla sonuclandi.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>009</MSGNR>
+     <TEXT>Database tablosunda kayit bulunmuyor.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>010</MSGNR>
+     <TEXT>Bugün günlerden pazartesi.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>011</MSGNR>
+     <TEXT>&amp;1 nolu radiobuton secildi. Mesaj Tipi: &amp;2</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>012</MSGNR>
+     <TEXT>zcm_Test_256 raporu &amp;1 tarihinde &amp;2 saatinde &amp;3 tarafindan calistirildi.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>013</MSGNR>
+     <TEXT>Secim ekranindan Sirket No: &amp;1, Yeni Sirket Ismi: &amp;2 degerleri girildi.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>014</MSGNR>
+     <TEXT>Secim ekranindan gelen &amp;1 firma numarasina sahip kayit bulunmamaktadir.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>015</MSGNR>
+     <TEXT>Secim ekranindan gelen &amp;1 firma numarasina sahip kayit bulundu.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>016</MSGNR>
+     <TEXT>Secim ekranindan gelen yeni firma ismi bos olamaz.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>017</MSGNR>
+     <TEXT>Secim ekranindan gelen yeni firma ismi &amp;1 bos degildir.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>018</MSGNR>
+     <TEXT>Secim ekranindan gelen yeni firma ismi &amp;1 25 karakterden büyük olamaz.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>019</MSGNR>
+     <TEXT>Secim ekranindan gelen yeni firma ismi &amp;1 25 karakterden büyük degildir.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>020</MSGNR>
+     <TEXT>Güncelleme islemi basarisiz.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>021</MSGNR>
+     <TEXT>Güncelleme islemi basariyla gerceklestirildi.</TEXT>
+    </item>
+   </T100_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

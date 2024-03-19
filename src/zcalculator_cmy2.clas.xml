@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCALCULATOR_CMY2</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Calculator Class</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>BOL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Bölme Yöntemi</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CARP</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Çarpma Yöntemi</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CIKAR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Çıkarma Yöntemi</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>TOPLA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Toplama Yöntemi</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>BOL</CMPNAME>
+     <SCONAME>EV_SONUC_BOLUM</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>4 bayt işaretli tamsayı</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>BOL</CMPNAME>
+     <SCONAME>IV_NUM_BOL_01</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>4 bayt işaretli tamsayı</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>BOL</CMPNAME>
+     <SCONAME>IV_NUM_BOL_02</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>4 bayt işaretli tamsayı</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CARP</CMPNAME>
+     <SCONAME>EV_SONUC_CARPIM</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>4 bayt işaretli tamsayı</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CARP</CMPNAME>
+     <SCONAME>IV_NUM_CARP_01</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>4 bayt işaretli tamsayı</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CARP</CMPNAME>
+     <SCONAME>IV_NUM_CARP_02</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>4 bayt işaretli tamsayı</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CIKAR</CMPNAME>
+     <SCONAME>EV_SONUC_CIKARMA</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>4 bayt işaretli tamsayı</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CIKAR</CMPNAME>
+     <SCONAME>IV_NUM_CIKAR_01</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>4 bayt işaretli tamsayı</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CIKAR</CMPNAME>
+     <SCONAME>IV_NUM_CIKAR_02</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>4 bayt işaretli tamsayı</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>TOPLA</CMPNAME>
+     <SCONAME>EV_SONUC_TOPLAM</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>4 bayt işaretli tamsayı</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>TOPLA</CMPNAME>
+     <SCONAME>IV_NUM_TOPLA_01</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>4 bayt işaretli tamsayı</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>TOPLA</CMPNAME>
+     <SCONAME>IV_NUM_TOPLA_02</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>4 bayt işaretli tamsayı</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
